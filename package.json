@@ -1,7 +1,7 @@
 {
   "name": "ball-match-game",
-  "version": "1.0.0",
-  "description": "球球消消乐 - A match-3 puzzle game with soft bouncy balls",
+  "version": "3.5.0",
+  "description": "球球消消乐 v3.5.0 - A match-3 puzzle game with soft bouncy balls",
   "main": "index.html",
   "scripts": {
     "start": "npx serve .",
